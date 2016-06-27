@@ -4,22 +4,5 @@
   "repository": "https://github.com/ashish296/messenger-platform-sample",
   "logo": "http://xvir.github.io/img/apiai.png",
   "keywords": ["ai", "facebook", "natural language"],
-  "env": 
- {
-    "APP_SECRET": {
-      "description": "Client access token for appSecret",
-      "value": ""
-    },
-    "VALIDATION_TOKEN": {
-      "description": "Verification code validationToken",
-      "value": ""
-    },
-    "PAGE_ACCESS_TOKEN": {
-      "description": "Page Access Token pageAccessToken",
-      "value": ""
-    }
-  },
-  "engines": {
-    "node": "5.10.1"
-  }
+  
 }
