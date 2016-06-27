@@ -1,8 +1,0 @@
-{
-  "name": "Facebook integration",
-  "description": "Facebook integration allows you to create Facebook bots with natural language understanding based on Api.ai technology.",
-  "repository": "https://github.com/ashish296/messenger-platform-sample",
-  "logo": "http://xvir.github.io/img/apiai.png",
-  "keywords": ["ai", "facebook", "natural language"],
-  
-}
