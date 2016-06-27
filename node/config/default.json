@@ -1,5 +1,6 @@
+
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": ""
+    "appSecret": "d24bb01c31ff68b1f217b09a668d373b",
+    "pageAccessToken": "EAAQOVo5mDSgBALg1xvjYyhZBQ8m83uiPtOGIInwqujawwTZCB4LMKUURGdFZAmzVwQ1MyYiUOwYsk4b4YhKI0WiHsYa67zYS1ytxX0hWrSYDeYlSvRHbFnFOpW1ZCxXiGeJ9TPp9D9ESZABZAP5h5MjFfdtNhWiFQpeNmee8106QZDZD",
+    "validationToken": "messenger-platform-sample"
 }
